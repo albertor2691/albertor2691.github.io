@@ -1,7 +1,7 @@
 
 # Alberto Rivas's Portfolio
 
-I am an electrical engineer major and I plan on graduation in 2028, and Im into cars and automation.
+My name is ALberto Rivas and am an electrical engineer major and I plan on graduation in 2028, and Im into cars and automation.
 
 ## Favorite CSPC 120L Labs
 
